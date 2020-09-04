@@ -3,7 +3,7 @@
 
 /opt/uvc-webcam/multi-gadget.sh
 /usr/bin/v4l2-ctl -c auto_exposure=0
-/usr/bin/v4l2-ctl -c auto_exposure_bias=15
+/usr/bin/v4l2-ctl -c auto_exposure_bias=3
 /usr/bin/v4l2-ctl -c contrast=0
 /usr/bin/v4l2-ctl -c video_bitrate=25000000
 
