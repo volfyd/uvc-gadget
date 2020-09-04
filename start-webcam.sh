@@ -7,5 +7,5 @@
 /usr/bin/v4l2-ctl -c contrast=0
 /usr/bin/v4l2-ctl -c video_bitrate=25000000
 
-/opt/uvc-webcam/uvc-gadget -f1 -s2 -r1  -u /dev/video1 -v /dev/video0
+/opt/uvc-webcam/uvc-gadget -f1 -s1 -r1  -u /dev/video1 -v /dev/video0
 
